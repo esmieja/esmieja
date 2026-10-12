@@ -10,4 +10,4 @@
 - Building systems across the stack, from digital hardware design to backend services and machine learning models.
 - Interested in designing systems that are efficient and bring a smile to the person on the other end.
 
-[LinkedIn](https://linkedin.com/in/eyasusmieja) · [Email](smiejaeyasu@gmail.com)
+[LinkedIn](https://linkedin.com/in/eyasusmieja) · [![Email]](mailto:smiejaeyasu@gmail.com)
