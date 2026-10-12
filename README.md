@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="header.svg"/>
   <img src="assets/header.svg" alt="Eyasu Smieja. Machine learning, embedded systems, backend, AI accelerators. Open to internships, research, and collaboration."/>
 </picture>
 
