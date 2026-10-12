@@ -1,31 +1,13 @@
-<h1 align="center">Eyasu Smieja</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/>
+  <img src="assets/header.svg" alt="Eyasu Smieja. Machine learning, embedded systems, backend, AI accelerators. Open to internships, research, and collaboration."/>
+</picture>
 
-<p align="center">
-  <em>Machine learning, and the systems it runs on.</em>
-</p>
+## About Me
 
-<p align="center">
-  <a href="#">LinkedIn</a> &nbsp;·&nbsp; <a href="#">Website</a> &nbsp;·&nbsp; <a href="mailto:your@email.com">Email</a>
-</p>
+- 3rd year computer engineering student at Georgia Tech.
+- Co-authored research on machine learning for LoRaWAN adaptive data rate optimization[LINK](https://ieeexplore.ieee.org/document/11684355).
+- Building systems across the stack, from digital hardware design to backend services and machine learning models.
+- Interested in designing systems that are efficient and bring a smile to the person on the other end.
 
----
-
-### Currently Working On
-
-**[Project name]**: [One or two sentences on what it does and the problem it solves.]
-
----
-
-### Tech
-
-| | |
-|---|---|
-| **Languages** | Python · Java · C · SystemVerilog · R |
-| **Frameworks** | FastAPI · React · Scikit-learn |
-| **Data** | PostgreSQL |
-
----
-
-### Off the Clock
-
-Grape connoisseur and devoted vibe cook. No recipes, just instinct, good ingredients, and whatever sounds right that night.
+[LinkedIn](https://linkedin.com/in/eyasusmieja) · [Email](smiejaeyasu@gmail.com)
